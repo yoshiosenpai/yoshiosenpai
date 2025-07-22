@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Metrics](./metrics.svg)
+
+![Metrics](https://metrics.lecoq.io/lowlighter)
 <!--
 **yoshiosenpai/yoshiosenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
