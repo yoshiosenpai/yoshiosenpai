@@ -114,10 +114,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoshiosenpai/yoshiosenpai/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoshiosenpai/yoshiosenpai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yoshiosenpai/yoshiosenpai/output/pacman-contribution-graph.svg">
-</picture>
+
+![3D GitHub Profile Graph](./profile-3d-contrib/profile-night-green.svg)
+
 
 ###
