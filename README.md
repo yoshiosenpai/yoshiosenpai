@@ -86,6 +86,12 @@
 
 ###
 
+![3D GitHub Profile Graph](./profile-3d-contrib/profile-night-green.svg)
+
+###
+
+###
+
 <h2 align="center">**Contact Me**</h2>
 
 ###
@@ -112,10 +118,3 @@
   <img src="https://streak-stats.demolab.com?user=yoshiosenpai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-
-![3D GitHub Profile Graph](./profile-3d-contrib/profile-night-green.svg)
-
-
-###
